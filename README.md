@@ -1,1 +1,2 @@
-Hi I'm ZachJRichman or Zach. Im a learning/know Angular, Css, Python, Typescript(JS as well), and html! I want to expand my knowledge on all subjects as much as I can!
+A game developer (C++ and Unreal Engine) and Web developer (HTML/CSS/JS and Flask {kinda}) and a learning pythonista and musician.
+If you have any pull requests or anything I will most likley ignore them. I don't use github that much as many things I work on are random and non-important nor worth saving.
