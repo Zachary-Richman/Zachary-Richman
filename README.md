@@ -43,7 +43,7 @@ class Socials{
     String github = "NebulousCalm";
     String replit = "ZachRichman";
     String codepen = "Z4CHr";
-    Spotify: "Whisper In A Storm"
+    Spotify: "Whisper In A Storm";
   }
 ```
 
