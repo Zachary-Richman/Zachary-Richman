@@ -49,6 +49,7 @@ class Socials{
 
 ```js
 const Friends = [
-  "TacoSnack"
+  "TacoSnack",
+  "AdamRichman"
 ]
 ```
