@@ -1,30 +1,54 @@
-# NebulousCalm
-### Yeah, thats me! I am also known as Zach Richman too!
+```html
+<h1>NebulousCalm</h1>
+<h2>This is what happens when you give a 13 year old a computer...</h2>
+<h4>I am co-creator and co-owner of</h4>
+<p>Stardust-Industries, which you can check out <a href="https://www.github.com/Stardust-Industries">here</a>.</p>
 
-#### I am both co-owner, co-creator of `Stardust-Industries`, which you can check out <a href="https://www.github.com/Stardust-Industries">here</a>.
+<h3>I mainly write in python but all the languages I know are...</h3>
 
-#### I mainly write in python but all the languages I know are
+```
+```python
+class languages:
+  English
+  Spanish
+  Hebrew
+  Java
+  PHP
+  C++
+  Full Stack Web Development
+```
 
->- English
->- Spanish
->- Java
->- PHP
->- C++
->- Advanced Web Development
+```php
+<?php
+  class GameDev{
+    public $engine = 'Unreal Engine 5';
+    public $modeling = 'Blender 3.0.0';
+    public $music = 'Musescore 3'; # For composition
+  }
+?>
+```
+```c++
+void musicalThings{
+  Piano;
+  Composition;
+  Guitar (Learning);
+  Violin (Learning);
+}
+```
+```java
 
-#### I also do game development with Unreal Engine (`Version 5`) and Blender (`Version 3.0`)
+class Socials{
+  static void mySocials(){
+    String xbox = "NebulousCalm";
+    String github = "NebulousCalm";
+    String replit = "ZachRichman";
+    String codepen = "Z4CHr";
+    Spotify: "Whisper In A Storm"
+  }
+```
 
-#### I also do musical composition, and I am building a full suite of composing software (*To Come*)
-
-### Socials
-
->- Xbox: `NebulousCalm`
->- Github: `NebulousCalm`
->- Replit: `ZachRichman` or `Reference-Code`
->- Codepen: `Z4CHr`
->- Spotify: `Whisper In A Storm`
-
-
-### Friends
-
->- <a href="https://www.github.com/TacoSnack">`TacoSnack`</a> 
+```js
+const Friends = {
+  TacoSnack
+}
+```
