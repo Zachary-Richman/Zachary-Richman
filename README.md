@@ -48,7 +48,7 @@ class Socials{
 ```
 
 ```js
-const Friends = {
-  TacoSnack
-}
+const Friends = [
+  "TacoSnack"
+]
 ```
