@@ -53,3 +53,12 @@ const Friends = [
   "AdamRichman"
 ]
 ```
+
+```css
+div.games{
+  destiny: "2";
+  halo: "mcc", "infinte", "5";
+  minecraft: "java", "bedrock";
+  other: "to come";  
+}
+```
