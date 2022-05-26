@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Z.png" alt="Logo">
+</p>
+
 ```html
 <h1>NebulousCalm</h1>
 <h2>This is what happens when you give a 13 year old a computer...</h2>
@@ -43,7 +47,7 @@ class Socials{
     String github = "NebulousCalm";
     String replit = "ZachRichman";
     String codepen = "Z4CHr";
-    Spotify: "Whisper In A Storm";
+    String Spotify: "Whisper In A Storm";
   }
 ```
 
@@ -61,4 +65,14 @@ div.games{
   minecraft: "java", "bedrock";
   other: "to come";  
 }
+```
+
+```python
+def hobbies():
+  running = "long distance",
+  gaming = "competitive",
+  programming = "obviously",
+  modeling = "blender",
+  game_dev = "unreal engine 5",
+  music = "composer"
 ```
