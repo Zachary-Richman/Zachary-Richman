@@ -7,6 +7,7 @@
 <h2>This is what happens when you give a 13 year old a computer...</h2>
 <h4>I am co-creator and co-owner of</h4>
 <p>Stardust-Industries, which you can check out <a href="https://www.github.com/Stardust-Industries">here</a>.</p>
+<h5>While I mainly go by NebulousCalm, I am also known as Reverence</h5>
 
 <h3>I mainly write in python but all the languages I know are...</h3>
 
