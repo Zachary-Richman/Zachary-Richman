@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="./Z.png" alt="Logo">
-</p>
-
 ```html
 <h1>NebulousCalm</h1>
-<h2>This is what happens when you give a 13 year old a computer...</h2>
-<h4>I am co-creator and co-owner of</h4>
+<h2>Why on Earth did you trust me with <b>any</b> technological device?</h2>
+<h4>I am co-creator and owner of</h4>
 <p>Stardust-Industries, which you can check out <a href="https://www.github.com/Stardust-Industries">here</a>.</p>
 <h5>While I mainly go by NebulousCalm, I am also known as Reverence</h5>
 
