@@ -45,8 +45,7 @@ class Socials{
   static void mySocials(){
     String xbox = "NebulousCalm";
     String github = "NebulousCalm";
-    String replit = "ZachRichman";
-    String codepen = "Z4CHr";
+    String replit = "Reverence";
     String Spotify: "Emotional Disaster";
     String Youtube: "Over Explained";
     String Twitch: "Over Explained";
