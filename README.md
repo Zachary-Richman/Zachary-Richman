@@ -3,7 +3,7 @@
 <h2>Why on Earth did you trust me with <b>any</b> technological device?</h2>
 <h4>I am co-creator and owner of</h4>
 <p>Stardust-Industries, which you can check out <a href="https://www.github.com/Stardust-Industries">here</a>.</p>
-<h5>While my name is NebulousCalm, I go by Nebulous</h5>
+<h5>While my name is NebulousCalm, I go by Nebulous I may also go by Reverence</h5>
 
 <h3>I mainly write in python but all the languages I know are...</h3>
 
@@ -50,6 +50,7 @@ class Socials{
     String Youtube: "Over Explained";
     String Twitch: "Over Explained";
     String Bungie: "Reverence";
+    String Discord: "Nebulous#9074"
   }
 ```
 
@@ -66,6 +67,6 @@ def hobbies():
   writing = "Dystopian Sci-Fi",
   programming = "obviously",
   modeling = "blender",
-  game_dev = "unreal engine 5",
+  game_dev = "Check Out Oblivion",
   music = "♫"
 ```
