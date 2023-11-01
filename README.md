@@ -1,12 +1,11 @@
 ```html
 <h1>NebulousCalm</h1>
-<h2>Why on Earth did you trust me with <b>any</b> technological device?</h2>
-<h4>I am co-creator and owner of</h4>
+<h3>I am creator and owner of</h4>
 <p>Ablyv, which you can check out <a href="https://www.github.com/Ablyv">here</a>.</p>
 <h5>While my name is NebulousCalm, I go by Nebulous I may also go by Reverence</h5>
 <i>If you would like to contact me about any job or hiring opportunities please contact me through Ablyv</i>
 
-<h3>I mainly write in python but all the languages I know are...</h3>
+<h3>I am mainly a flask developer but I also dabble in a few other things...</h3>
 
 ```
 ```python
@@ -37,7 +36,7 @@ class languages_and_frameworks:
 void musicalThings{
   Piano;
   Composition;
-  Acoustic Guitar;
+  Guitar;
 }
 ```
 ```java
@@ -47,11 +46,9 @@ class Socials{
     String xbox = "NebulousCalm";
     String github = "NebulousCalm";
     String replit = "Reverence";
-    String Spotify: "Emotional Disaster";
     String Youtube: "Over Explained";
-    String Twitch: "Over Explained";
     String Bungie: "Reverence";
-    String Discord: "Nebulous#9074"
+    String Discord: "Nebularityy"
   }
 ```
 
