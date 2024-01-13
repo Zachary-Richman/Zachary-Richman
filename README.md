@@ -8,63 +8,8 @@
 <h3>I am mainly a flask developer but I also dabble in a few other things...</h3>
 
 ```
-```python
-class languages_and_frameworks:
-  Java
-  PHP
-  C++
-  Bash
-  Powershell
-  HTML
-  CSS
-  JS
-  ReactJs
-  Flask
-  Nodejs
-```
-
-```php
-<?php
-  class GameDev{
-    public $engine = 'Unreal Engine 5';
-    public $modeling = 'Blender 3.0.0';
-    public $music = 'Musescore 3';
-  }
-?>
-```
-```c++
-void musicalThings{
-  Piano;
-  Composition;
-  Guitar;
-}
-```
-```java
-
-class Socials{
-  static void mySocials(){
-    String xbox = "NebulousCalm";
-    String github = "NebulousCalm";
-    String replit = "Reverence";
-    String Youtube: "Over Explained";
-    String Bungie: "Reverence";
-    String Discord: "Nebularityy"
-  }
-```
-
-```js
-const Friends = [
-  null
-]
-```
-
-```python
-def hobbies():
-  running = "long distance",
-  gaming = "competitive",
-  writing = "Dystopian Sci-Fi",
-  programming = "obviously",
-  modeling = "blender",
-  game_dev = "Check Out Oblivion",
-  music = "♫"
+```css
+I mainly do web development and python. If you have any inquires then please either reach out to me via
+ Ablyv or personally at <a href="mailto:richmanzj@gmail.com">my email</a>
+I will do commisions for websites, please contact me for further info!
 ```
