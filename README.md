@@ -1,5 +1,5 @@
 <h1 align="center">
-N E B U L O U S
+Z A C H A R Y R I C H M A N
 </h1>
 
 ```diff
@@ -27,7 +27,6 @@ N E B U L O U S
 @@ Arduino @@
 @@ Raspberry PI @@
 @@ C programming language @@
-- my RAM is screaming rn
 
 + Novice With
 @@ Java @@
