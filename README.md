@@ -1,6 +1,9 @@
 <h1 align="center">
-Z A C H A R Y R I C H M A N
+Z A C H A R Y   R I C H M A N
 </h1>
+<p align="center">
+ Full Stack Web Developer with over <strong>5,000</strong> hours in editors<br /> Currently studying for my PCAP exam in python programming
+</p>
 
 ```diff
 !  What can I do?
@@ -9,6 +12,7 @@ Z A C H A R Y R I C H M A N
 @@  Flask  @@
 @@  OpenCV  @@
 @@  Sqlite3 @@
+@@ AI/ML @@
 
 + Javascript
 @@ Nodejs @@
