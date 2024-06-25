@@ -2,7 +2,7 @@
 Z A C H A R Y   R I C H M A N
 </h1>
 <p align="center">
- Full Stack Web Developer with over <strong>5,000</strong> hours in editors<br /> Currently studying for my PCAP exam in python programming<br />Member of Googles Developer Programme<br />Vercel Nextjs Developer & Conference Invitee
+ Full Stack Web Developer with over <strong>5,000</strong> hours in editors<br /> Currently studying for my PCAP exam in python programming<br />Member of Googles Developer Programme
 </p>
 
 ```diff
