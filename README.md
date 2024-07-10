@@ -62,13 +62,8 @@ Z A C H A R Y   R I C H M A N
 
 <h2 align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NebulousCalm&repo=utils)](https://github.com/NebulousCalm/utils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Actium-Open-Source&repo=lumina-llm)](https://github.com/NebulousCalm/utils)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-Industries&repo=Education)](https://github.com/Stardust-Industries/Education)
 
 </h2>
-<details align="center">
- <summary>How do I dropdown?</summary>
-<br>
-magic 
-</details>
