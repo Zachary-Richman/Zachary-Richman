@@ -1,69 +1,17 @@
-<h1 align="center">
-Z A C H A R Y   R I C H M A N
-</h1>
-<p align="center">
- Full Stack Web Developer and Data Science <br /> Intern @ Prismatic Services
-</p>
+### Zachary Richman
+> /za.ck.ah.ree/
 
-```diff
-!  What can I do?
+I'm a Web Developer and occasional self proclaimed data scientist who loves making high-quality websites and interfaces. I'm a high school
+student and I also love environmental science, and want to learn more about how the world works.
 
-+ Python
-@@  Flask  @@
-@@  OpenCV  @@
-@@  Sqlite3 @@
-@@ AI/ML @@
+[`🏠 zachary-richman.vercel.app`](https://zachary-richman.vercel.app/)
 
-+ Javascript
-@@ Nodejs @@
-@@ Expressjs @@
-@@ EJS @@
-@@ Nextjs @@
+[`📫 zjrichman@outlook.com`](mailto:zjrichman@outlook.com)
 
-+ Web
-! Full Stack w/ Nodejs or Flask
-@@ HTML @@
-@@ CSS @@
-@@ Browser Javascript @@
-@@ PHP @@
+### 🔨 What I'm Working On
 
-+ IoT (Internet of Things)
-@@ Arduino @@
-@@ Raspberry PI @@
-@@ C programming language @@
-
-+ Novice With
-@@ Java @@
-@@ C++ @@
-@@ Typescript @@
-@@ Powershell @@
-@@ Bash @@
-@@ C# @@
-```
-
-<h1 align="center">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NebulousCalm)](https://github.com/anuraghazra/github-readme-stats)
- 
-</h1>
-
-<h3 align="center">GISTS</h3>
-
-<h2 align="center">
- 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c082bb7a0f017136a5049567d41baae5)](https://gist.github.com/NebulousCalm/c082bb7a0f017136a5049567d41baae5)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e1165d83121ff47cce60564490882308)](https://gist.github.com/NebulousCalm/e1165d83121ff47cce60564490882308)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=22ae7ea74c2ec0acf6ed98295f3b5de9)](https://gist.github.com/NebulousCalm/22ae7ea74c2ec0acf6ed98295f3b5de9)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1c5ec10619cc5685a5825654cbf76ba7)](https://gist.github.com/NebulousCalm/1c5ec10619cc5685a5825654cbf76ba7)
-
-</h2>
-
-<h3 align="center">IMPORTANT REPOS</h3>
-
-<h2 align="center">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Actium-Open-Source&repo=lumina-llm)](https://github.com/NebulousCalm/utils)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-Industries&repo=Education)](https://github.com/Stardust-Industries/Education)
-
-</h2>
+- [zachary-richman/Better-Google-Sheets](https://github.com/Zachary-Richman/Better-Google-Sheets) - A wrapper for the Google Sheets API to speed up dev time
+- [zachary-richman/pyxcel-cli](https://github.com/Zachary-Richman/pyxcel-cli) - A *C*ommand *L*ine *I*nterface for manipulating mass amounts of excel data
+- [youth-finance-usa/website](https://www.github.com/Youth-Finance-USA/website) - A responsive and sleek new website design for [@Youth-Finance-Usa](https://www.youthfinanceusa.org)
+- [lumina-home-assistant](https://github.com/Lumina-Home-Assistant) - An Open-Source project for leveraging AI models to create a better Home Assistant
+- [Actium](https://github.com/Actium-Open-Source) - Redefining what small business should look like [@Actium](https://pelagic-river-420714.uc.r.appspot.com/)
