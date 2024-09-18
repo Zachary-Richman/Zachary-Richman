@@ -2,7 +2,7 @@
 > /za.ck.ah.ree/
 
 I'm a Web Developer and occasional self proclaimed data scientist who loves making high-quality websites and interfaces. I'm a high school
-student and I also love environmental science, and want to learn more about how the world works.
+student and I'm also on my AI grind, and have taken extensive notes 😞.
 
 [`🏠 zachary-richman.vercel.app`](https://zachary-richman.vercel.app/)
 
