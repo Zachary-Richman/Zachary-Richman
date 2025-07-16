@@ -1,7 +1,7 @@
 ### Zachary Richman
 > /za.ck.ah.ree/
 
-I'm a Web Developer and I occasional work with data. I'm also an avid high school debater and speaker, with a large project developing to make debate available for everyone regardless of financial situtations.
+Web Dev, Debater, DSA, and Systems
 
 [`🏠 zachary-richman.vercel.app`](https://zachary-richman.vercel.app/)
 
